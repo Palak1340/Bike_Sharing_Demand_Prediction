@@ -1,7 +1,9 @@
 # Bike_Sharing_Demand_Prediction
 Almabetter Verified Project- https://www.almabetter.com/
 ![Rental bike](https://github.com/user-attachments/assets/906db8f0-7961-40af-bd7a-c3ed6af6d144)
+
 🗃️ Dataset Description
+
 📅 Day Dataset Columns
 instant: Unique identifier for each record
 dteday: Date of the record
@@ -19,9 +21,11 @@ windspeed: Normalized wind speed
 casual: Count of casual bike rentals
 registered: Count of registered bike rentals
 cnt: Total bike rentals (casual + registered)
+
 ⏰ Hour Dataset Columns
 Same columns as the Day Dataset with the addition of:
 hr: Hour of the day (0 to 23)
+
 🛠️ Dependencies
 Ensure you have the following dependencies installed:
 
@@ -33,7 +37,7 @@ Matplotlib
 Jupyter Notebook
 ipykernel
 Streamlit
-⚙️ Installation and Setup
-🛑 Clone the Repository
+
+
 
 
