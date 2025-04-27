@@ -7,9 +7,8 @@ Almabetter Verified Project- https://www.almabetter.com/
 📅 Day Dataset Columns
 
 * instant: Unique identifier for each record
-  
-dteday: Date of the record
-season: Season of the year (1 = spring, 2 = summer, 3 = fall, 4 = winter)
+* dteday: Date of the record
+* season: Season of the year (1 = spring, 2 = summer, 3 = fall, 4 = winter)
 yr: Year (0 = 2011, 1 = 2012)
 mnth: Month (1 to 12)
 holiday: Binary flag (1 = holiday, 0 = no holiday)
