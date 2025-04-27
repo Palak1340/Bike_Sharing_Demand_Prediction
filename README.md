@@ -26,6 +26,7 @@ Almabetter Verified Project- https://www.almabetter.com/
 ⏰ Hour Dataset Columns
 
 Same columns as the Day Dataset with the addition of:
+
 *hr: Hour of the day (0 to 23)
 
 🛠️ Dependencies
@@ -33,12 +34,19 @@ Same columns as the Day Dataset with the addition of:
 Ensure you have the following dependencies installed:
 
 *Python 3.7 or higher
+
 *NumPy
+
 *Pandas
+
 *Scikit-learn
+
 *Matplotlib
+
 *Jupyter Notebook
+
 *ipykernel
+
 *Streamlit
 
 
