@@ -5,6 +5,7 @@ Almabetter Verified Project- https://www.almabetter.com/
 🗃️ Dataset Description
 
 📅 Day Dataset Columns
+
 instant: Unique identifier for each record
 dteday: Date of the record
 season: Season of the year (1 = spring, 2 = summer, 3 = fall, 4 = winter)
@@ -23,10 +24,12 @@ registered: Count of registered bike rentals
 cnt: Total bike rentals (casual + registered)
 
 ⏰ Hour Dataset Columns
+
 Same columns as the Day Dataset with the addition of:
 hr: Hour of the day (0 to 23)
 
 🛠️ Dependencies
+
 Ensure you have the following dependencies installed:
 
 Python 3.7 or higher
