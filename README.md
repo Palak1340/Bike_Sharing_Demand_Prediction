@@ -25,7 +25,7 @@ Almabetter Verified Project- https://www.almabetter.com/
 
 ⏰ Hour Dataset Columns
 
-*Same columns as the Day Dataset with the addition of:
+/Same columns as the Day Dataset with the addition of:
 
 *hr: Hour of the day (0 to 23)
 
